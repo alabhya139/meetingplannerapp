@@ -332,9 +332,6 @@ MIT
 @angular/common
 MIT
 
-ngx-cookie-service
-MIT
-
 @angular/platform-browser
 MIT
 
@@ -342,6 +339,9 @@ MIT
 MIT
 
 @angular/forms
+MIT
+
+ngx-cookie-service
 MIT
 
 calendar-utils
